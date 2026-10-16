@@ -1,0 +1,21 @@
+{
+  "code": "KHU-GWANGNEUNG",
+  "title": "SMASH KHU GWANGNEUNG",
+  "school": "경희대 광릉",
+  "fullName": "경희대학교",
+  "campusName": "경희대학교 광릉캠퍼스",
+  "tagline": "경희대 광릉을 부셔 (시험기간 스트레스 해소)",
+  "description": "경희대학교 광릉캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 경희대학교 광릉캠퍼스 3D 화면과 SMASH KHU GWANGNEUNG 제목",
+  "url": "https://hong-iron.github.io/SMASH-KHU-GWANGNEUNG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 472581590
+  },
+  "styles": {},
+  "support": "https://buymeacoffee.com/hongiron",
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35"
+}
